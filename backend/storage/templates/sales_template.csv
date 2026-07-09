@@ -1,0 +1,6 @@
+transaction_date,invoice_no,dealer_code,dealer_name,branch,product_code,product_name,quantity,unit_price,revenue,cost,target,sales_person,sales_month
+2025-01-15,INV-2025-001,DLR-JKT-001,Dealer Jakarta 1,Jakarta,PRD-A,Product A,10,5000000,50000000,40000000,45000000,John Doe,2025-01
+2025-01-15,INV-2025-002,DLR-JKT-002,Dealer Jakarta 2,Jakarta,PRD-B,Product B,5,3000000,15000000,12000000,14000000,Jane Smith,2025-01
+2025-01-16,INV-2025-003,DLR-SBY-001,Dealer Surabaya 1,Surabaya,PRD-C,Product C,8,2000000,16000000,13000000,15000000,Bob Wilson,2025-01
+2025-01-16,INV-2025-004,DLR-SBY-002,Dealer Surabaya 2,Surabaya,PRD-D,Product D,12,1500000,18000000,14000000,17000000,Alice Brown,2025-01
+2025-01-17,INV-2025-005,DLR-BDG-001,Dealer Bandung 1,Bandung,PRD-E,Product E,6,4000000,24000000,20000000,22000000,Charlie Davis,2025-01

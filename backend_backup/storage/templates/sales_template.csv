@@ -1,0 +1,6 @@
+transaction_date,invoice_no,dealer_code,dealer_name,branch,product_code,product_name,quantity,unit_price,revenue,cost,target,sales_person,sales_month
+2026-01-15,INV-2026-001,DLR-JKT-001,Dealer Jakarta Pusat,Jakarta,PRD-BEAT,Honda Beat,5,15000000,75000000,65000000,100000000,Budi Santoso,2026-01
+2026-01-16,INV-2026-002,DLR-JKT-001,Dealer Jakarta Pusat,Jakarta,PRD-VARIO,Honda Vario,3,18000000,54000000,47000000,100000000,Budi Santoso,2026-01
+2026-01-17,INV-2026-003,DLR-BDG-001,Dealer Bandung Timur,Bandung,PRD-BEAT,Honda Beat,7,15000000,105000000,91000000,150000000,Siti Aminah,2026-01
+2026-01-18,INV-2026-004,DLR-BDG-001,Dealer Bandung Timur,Bandung,PRD-SCOOPY,Honda Scoopy,4,19000000,76000000,66000000,150000000,Siti Aminah,2026-01
+2026-01-19,INV-2026-005,DLR-SBY-001,Dealer Surabaya Utara,Surabaya,PRD-PCX,Honda PCX,2,32000000,64000000,56000000,120000000,Ahmad Rifai,2026-01
