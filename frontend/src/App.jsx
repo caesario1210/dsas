@@ -46,7 +46,7 @@ function App() {
   }
 
   return (
-    <Router>
+    <Router basename="/dsas">
       <Routes>
         <Route path="/login" element={user ? <Navigate to="/dashboard" /> : <Login setUser={setUser} />} />
         <Route path="/dashboard" element={<PrivateRoute><Dashboard user={user} /></PrivateRoute>} />
